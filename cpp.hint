@@ -1,0 +1,4 @@
+// İpucu dosyaları, Visual Studio IDE'nin makro ve işlev adları gibi Visual C++ tanımlayıcılarını
+// yorumlamasına yardımcı olur.
+// Daha fazla bilgi için bkz. https://go.microsoft.com/fwlink/?linkid=865984
+#define xorstr(str) xor(str).crypt_get()
